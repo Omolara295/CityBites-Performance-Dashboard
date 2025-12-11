@@ -60,5 +60,3 @@ A screenshot of the dashboard is included in the repo for quick reference.
 - Use slicers to filter by restaurant, city, or order status
 - Explore the visual insights and trends
 
-Let me know if you’d like help uploading this to GitHub or writing a LinkedIn post to showcase it!
-
