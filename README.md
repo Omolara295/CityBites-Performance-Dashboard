@@ -3,6 +3,9 @@
 and visual insights on revenue, profit, order status, and shipping trends. Built using Excel tools like slicers, charts, 
 and conditional formatting to support business decision-making.
 
+<img width="1152" height="602" alt="image" src="https://github.com/user-attachments/assets/d947f71a-5acf-4e55-8d2b-d07a5496730a" />
+
+
 ## 🧾 Introduction
 This project showcases an interactive Excel dashboard built to analyze the performance of a fictional restaurant chain, CityBites. 
 The goal was to transform raw transactional data into actionable insights using Excel tools like PivotTables, slicers, and charts. 
