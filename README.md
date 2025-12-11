@@ -13,7 +13,7 @@ The dashboard helps stakeholders monitor key metrics such as revenue, profit, or
 
 ## 📁 Project Structure
 The workbook contains three sheets:
-- Raw_Data: Original transactional data including orders, revenue, profit, and shipping status
+- Citybites_Data: Original transactional data including orders, revenue, profit, and shipping status
 - Pivot_Analysis: Pivot tables summarizing key metrics by restaurant, week, and order status
 - Dashboard: Interactive visual dashboard with slicers and charts for dynamic exploration
 
